@@ -136,6 +136,7 @@ button:focus{
 	justify-content: center;
 	row-gap: 50px;
 }
+
 .grid-articles > article {
 	padding-right: 50px;
 	text-align: center;
