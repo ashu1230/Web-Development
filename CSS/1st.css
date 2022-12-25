@@ -143,6 +143,7 @@ button:focus{
 	padding-right: 50px;
 	text-align: center;
 }
+
 @media (max-width: 1000px){
 	.grid-articles{
 		grid-template-columns: repeat(2, 40vw);
