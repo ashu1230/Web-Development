@@ -108,6 +108,7 @@ button:focus{
 	width: 45%;
 	margin-top: 20px
 }
+
 .get-started > button{
 	width: 50%;
 	border: 0;
@@ -118,6 +119,7 @@ button:focus{
 	padding: 10px 70px;
 	margin-top: 20px;
 }
+
 @media (max-width: 1000px){
 	.get-started > img{
 		width: 60%;
