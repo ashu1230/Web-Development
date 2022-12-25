@@ -291,6 +291,7 @@ button:focus{
 	padding: 10px 30px;
 	margin-top: 20px;
 }
+
 @media (max-width: 1000px){
 	.early-access-card{
 		margin-top: 100px;
