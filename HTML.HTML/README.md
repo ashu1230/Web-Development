@@ -1,3 +1,3 @@
 <h2>Only Html</h2>
 
-in this repository
+In this repository
