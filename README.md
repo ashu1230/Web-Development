@@ -4,10 +4,9 @@
 
 <ol>
 
-<li>HTML:-Hypertext Markup Language</li>
+<li>HTML :-Hypertext Markup Language</li>
   
-<li>CSS:-Cascading Style Sheets
-</li>
+<li>CSS:-Cascading Style Sheets</li>
   
 <li>JAVA SCRIPT</li>
   
